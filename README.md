@@ -6,8 +6,8 @@
 ## Sweeps and Lofts
 (Asad will write a bit about this assignment here)
 
-##Seed DropPer
+## Seed DropPer
 (Asad will write a bit about this here)
 
-##Media
+## Media
 I have got some pictures of my seed dropper design here.
