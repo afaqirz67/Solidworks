@@ -11,8 +11,9 @@
   
 In this assignment, we were supposed to follow a tutorial provided by SolidWorks itself and have different parts done. One part included an assembly and part and the second one just included just one part.
 ### Picture
-<img src=https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/tutor_assem.PNG>
-<img src=(https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/pressure_plate.PNG)>
+![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/tutor_assem.PNG)
+
+![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/pressure_plate.PNG)
 Pictures from [Jbrown56](https://github.com/jbrown56)
 
 
