@@ -29,6 +29,7 @@ This assignment includes using lofted cuts, revolves and sweeps. We were to sket
 ![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/cstick.PNG)
 
 ![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/loft.PNG)
+Pictures from [Jbrown56](https://github.com/jbrown56)
 
 ### Lessons Learned
 I learned how to use lofted cuts, revolves and sweeps by doing this assignment. I had trouble with the Flex, but after playing with it for a while I figured out how it works.
