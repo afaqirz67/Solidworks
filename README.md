@@ -20,13 +20,21 @@ Pictures from [Jbrown56](https://github.com/jbrown56)
 ### Lessons Learned
 These were the first assignments of the year so kind of refreshed everything in my memory and the new skill I learned by doing this assignment was how to use Linear Pattern. It basically allows you to copy your drawn sketch multiple times in a specific pattern.
 
+
+
 ## Sweeps and Lofts
 
 This assignment includes using lofted cuts, revolves and sweeps. We were to sketch a hammerhead and we had the choice to make a handle for it or not. Same as the last assignment we used a tutorial that's in SolidWorks.
 ## Picture
+![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/cstick.PNG)
+
+![alt text](https://github.com/jbrown56/Not_So-Basic-CAD/blob/master/Media/loft.PNG)
 
 ### Lessons Learned
 I learned how to use lofted cuts, revolves and sweeps by doing this assignment. I had trouble with the Flex, but after playing with it for a while I figured out how it works.
+
+
+
 ## Seed DropPer
 (Asad will write a bit about this here)
 
