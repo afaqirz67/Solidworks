@@ -37,7 +37,9 @@ I learned how to use lofted cuts, revolves and sweeps by doing this assignment. 
 
 
 # Seed DropPer
-Description 
+The seed dropper was my first project of the year. I chose this project because it inly involved working in solidworks. The seed dropper would go to the gardening teacher once it was done. They were going to use it in garden for seeding the trays. Here is the way it [works](https://youtu.be/MTVvjtp3V8E) 
 
 ## Picture 
 ![alt text](https://cdn.shopify.com/s/files/1/1338/7937/products/1020_Drop_Seeder_2000x.jpeg?v=153982230)
+
+### Lesson Learned
