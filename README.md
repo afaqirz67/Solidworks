@@ -43,3 +43,4 @@ The seed dropper was my first project of the year. I chose this project because 
 ![alt text](https://cdn.shopify.com/s/files/1/1338/7937/products/1020_Drop_Seeder_2000x.jpeg?v=153982230)
 
 ### Lesson Learned
+By doing this project I learned a lot about different topics and aspects in Engineering, designig, and sketching, but most of all I learned a lot of SolidWorks skills.
