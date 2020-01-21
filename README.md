@@ -3,7 +3,7 @@
 ## TABLE OF CONTENTS
 * [A LITTLE PRACTICE](#A-Little-Practice)
 * [SWEEPS & LOFTS](#Sweeps-and-Lofts)
-* [LCD BACKPACK](#LCD-Backpack)
+* [SEED DROPPER](#Seed-DropPer)
 
 
 
@@ -36,8 +36,8 @@ I learned how to use lofted cuts, revolves and sweeps by doing this assignment. 
 
 
 
-## Seed DropPer
-(Asad will write a bit about this here)
+# Seed DropPer
+Description 
 
-## Media
-I have got some pictures of my seed dropper design here.
+## Picture 
+<img src=https://cdn.shopify.com/s/files/1/1338/7937/products/1020_Drop_Seeder_2000x.jpeg?v=1539822309>
