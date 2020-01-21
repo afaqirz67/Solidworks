@@ -40,4 +40,4 @@ I learned how to use lofted cuts, revolves and sweeps by doing this assignment. 
 Description 
 
 ## Picture 
-<img src=https://cdn.shopify.com/s/files/1/1338/7937/products/1020_Drop_Seeder_2000x.jpeg?v=1539822309>
+![alt text](https://cdn.shopify.com/s/files/1/1338/7937/products/1020_Drop_Seeder_2000x.jpeg?v=153982230)
