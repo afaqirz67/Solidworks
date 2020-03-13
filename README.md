@@ -71,6 +71,7 @@ Description
 
 
 ## Picture
+<img src="https://github.com/afaqirz67/Solidworks/blob/master/mates/Capture.ad.PNG?raw=true">
 
 
 
