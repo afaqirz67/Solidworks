@@ -55,7 +55,7 @@ By doing this project I learned a lot about different topics and aspects in Engi
 Description
 
 ## Picture 
-<img src=
+<img src="https://github.com/afaqirz67/Solidworks/blob/master/mates/Capture.PNG?raw=true">
 
 
 
