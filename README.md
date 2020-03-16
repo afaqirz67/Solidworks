@@ -51,8 +51,8 @@ By doing this project I learned a lot about different topics and aspects in Engi
 
 
 # Design Tables
+In this assignment we were assigned to do make a shape with different sizes using the configuration. The instructions were pretty simple. Although I had some issues, but they weren't as big. I had a little hard time with the configurations because not all of the configurations had recieved the right measure, so there were some erros that I had to fix in order to make it work properley. I had to open the specefic configuration and do the measuerments there. Once I did that it worked very fine.
 
-Description
 
 ## Picture 
 <img src="https://github.com/afaqirz67/Solidworks/blob/master/mates/Capture.PNG?raw=true">
@@ -60,13 +60,11 @@ Description
 
 
 ### Lessons Learned 
-
-
+In this assignment I learned two new skill which are really helpfull. I learned how to use Wizard Hole and to creat a confiquration. The Wizard Hole can be really helpful for extruding holes in the middle of a circle and the configuration can save you a lot of time and effort. Instead of making a whole new part you can make a bunch of them in no time with a couple supper easy steps. 
 
 
 # Advance and Mechanical Mates
-
-Description
+In this assignment we had to make a spool shape. We had to create three different sizes of the spool shape. We had to put them together in an assembley using mates.
 
 
 
@@ -76,6 +74,6 @@ Description
 
 
 ### Lessons Learned
-
+This assignment assignment I learned how to use advanced mates. I had difficult time find the peroper mates and applying it to the right part, but I figured it out. It was alos a really good review of the configurations. 
 
 
