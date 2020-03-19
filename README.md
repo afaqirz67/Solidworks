@@ -5,7 +5,7 @@
 * [SWEEPS & LOFTS](#Sweeps-and-Lofts)
 * [SEED DROPPER](#Seed-DropPer)
 * [DESIGN TABLES](#Design-Tables)
-* [ADVANCE AND MECHANICAL MATES](#Advance-and-Mechanical mates)
+* [ADVANCE AND MECHANICAL MATES](#Advance-and-Mechanical-Mates)
 
 
 
